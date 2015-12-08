@@ -33,7 +33,7 @@
     <DocumentationFile>bin\Release\Lucene.Net.ObjectMapping.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>..\PublicKey.snk</AssemblyOriginatorKeyFile>
